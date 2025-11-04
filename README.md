@@ -30,7 +30,6 @@ Our analytical arsenal included diverse models to ensure robust identification:
 
 ## Project Structure
 
-- **Project Report**: [View Project Report](https://drive.google.com/file/d/1Fqjq3UV_l51ADNIQLj_Ix7QMpLmtnjq2/view?usp=sharing)
 - **PRML_Project.ipynb**: Data preprocessing and EDA for LFW. [Used in Midreport]
 - **CNN_Models.ipynb**: Upcoming models utilizing CNN-extracted features.
 - **Saved Models**: Repository for deployed and tested models.
